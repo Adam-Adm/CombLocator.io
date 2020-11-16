@@ -4,6 +4,7 @@
 
 Found a bunch of cool scripts I can use to set up the server for all of Remi's comb data. I'll also be using a bit of Ascii art here too.
 
+```
                                     _____
                               _.--""     ""--._
                           _.-"                 "-._
@@ -81,3 +82,5 @@ Q                |    .'  ..  `.     | |     .'  ..  `.       |.__   __..::
                                                     `'::..__   __..:'
                                                        `'::::::::''
 
+
+```
