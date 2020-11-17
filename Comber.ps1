@@ -27,7 +27,7 @@ function Domain-Comber {
     Domain-Comber -GetFromDomain spns
 
     #>
-    $PlainPassword = "W?8h]wi7"
+    $PlainPassword = ""
     $SecurePassword = $PlainPassword | ConvertTo-SecureString -AsPlainText -Force
 
     if ($GetFromDomain -eq 'DC' )
